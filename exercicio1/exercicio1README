@@ -1,0 +1,4 @@
+## Exercicio 1 - Trajetória com Curva Paramétrica
+O exercício utiliza como base o mesmo projeto exemplo da godot disponibilizado pela professora no repositório https://github.com/fellowsheep/AC2026-2.
+Com base nele, foi implementado a curva Bezier, e realizadas algumas modificações para que o rato se comporte tanto utilizadno a bezier também, como também possa ser alterado LIVE entre 
+as curvas.
